@@ -11,7 +11,6 @@ BuildRequires:	uClibc-devel
 BuildRequires:	uClibc-static-devel
 BuildRequires:	libtool
 BuildRequires:	automake
-BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 
 %description
 Service Location Protocol is an IETF standards track protocol that provides a
