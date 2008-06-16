@@ -1,7 +1,7 @@
 Summary:	Static OpenSLP Tool for embedded systems
 Name:		slptool-static
 Version:	1.0.11
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	BSD
 Group:		Networking/Other
 URL:		http://www.openslp.org/
