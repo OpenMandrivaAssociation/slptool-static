@@ -4,7 +4,7 @@ Version:	1.0.11
 Release:	%mkrel 4
 License:	BSD
 Group:		Networking/Other
-URL:		http://www.openslp.org/
+URL:		https://www.openslp.org/
 Source0:	ftp://openslp.org/pub/openslp/openslp-%{version}/openslp-%{version}.tar.bz2
 Patch0:		slptool-add-lifetime.diff
 BuildRequires:	uClibc-devel
